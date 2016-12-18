@@ -1,11 +1,11 @@
-RipMe [![Build Status](https://travis-ci.org/4pr0n/ripme.svg?branch=master)](https://travis-ci.org/4pr0n/ripme)
+RipMe [![Build Status](https://travis-ci.org/no1dead/ripme.svg?branch=master)](https://travis-ci.org/no1dead/ripme)
 =====
 
 Album ripper for various websites. Runs on your computer. Requires Java 1.6
 
 ![Screenshot](http://i.imgur.com/kWzhsIu.png)
 
-[Download v1.x](http://rarchives.com/ripme.jar) (ripme.jar)
+Download in Releases Tab
 --------------------------
 For information about running the `.jar` file, see [the How To Run wiki](https://github.com/4pr0n/ripme/wiki/How-To-Run-RipMe)
 
